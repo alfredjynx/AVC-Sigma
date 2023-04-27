@@ -47,7 +47,7 @@ O processo ainda não terminou, pois precisamos verificar o modelo comparado a h
 A hipótese nula é a acurácia de um modelo que sempre categoriza algo como o resultado mais frequente. Nesse caso, temo a quantidade de vezes que o resultado mais frequente ocorreu ($r$) dividida pelo número total de resultados ($N$).
 
 $$
-HipoteseNula = \frac{r}{N}
+H_{0} = \frac{r}{N}
 $$
 
 É important que seu modelo seja funcional e não apenas parecido com a hipótese nula. Um exemplo que ilustra essa necessidade é um que temos 70% dos casos da classe A e 30% de outras classes. Se nosso modelo sempre chutar que um elemento é da classe A ele terá 70% de acurácia, mas isso não significa que ele está correto.
