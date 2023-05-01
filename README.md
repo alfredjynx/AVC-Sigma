@@ -3,7 +3,7 @@
 <!-- Aqui é Reservado para Análise de Dados -->
 
 ## *Aviso Importante*
-* Todas as descrições de código e modelos matemáticos estão no arquivo `demo.ipynb`. Os testes foram salvos em arquivos *.csv* para não ser necessário a execução dos modelos (principalmente os de Clasificação Linear).
+* Todas as descrições de código e modelos matemáticos estão no arquivo `demo.ipynb`. Os testes foram salvos em arquivos *.csv* para não ser necessário a execução dos modelos (principalmente os de Classificação Linear).
 
 ## Resumo de Testes
 
