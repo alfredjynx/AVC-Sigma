@@ -84,7 +84,7 @@ Abaixo, estão algumas citações dos resumos de artigos científicos relacionad
 
 "Observou-se que os principais fatores não modificáveis são: idade, sexo, raça, localização geográfica e hereditariedade. Já os principais fatores modificáveis são: hipertensão, fibrilação atrial, diabetes melito, dislipidemia, obesidade e o tabagismo." - de Sousa Rodrigues, Mateus (2017)
 
-Como fatores mencionados, estão: idade, tabagismo, sexo , hipertensão, obesidade, raça, hereditariedade, localização geográfica, uso de anticoncepcionais, diabtes, sedentarismo, doença ateromatosa, frequência cardíaca irregular (fibrilação atrial) e dislipidemia. 
+Como fatores mencionados, estão: idade, tabagismo, sexo , hipertensão, obesidade, raça, hereditariedade, localização geográfica, uso de anticoncepcionais, diabetes, sedentarismo, doença ateromatosa, frequência cardíaca irregular (fibrilação atrial) e dislipidemia. 
 
 No nosso modelo, temos representados: idade, tabagismo, sexo (gênero), hipertensão e obesidade (bmi). Além desses, contemplamos fatores como trabalho e histórico de doenças cardíacas (pode ou não indicar fibrilação atrial). 
 
